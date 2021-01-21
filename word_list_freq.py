@@ -6,7 +6,7 @@
 
 from glob import glob
 
-txt_mask = r'C:\Users\DDNOU\Downloads\Text Mining\TBBTCorpus-master\TBBTCorpus-master\preprocessing\raw_corpus\*.txt'
+txt_mask = r'C:\Users\...your..folder..here..\*.txt'
 filenames = glob(txt_mask)
 
 #for fn in txt_names:
